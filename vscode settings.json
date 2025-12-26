@@ -16,8 +16,9 @@
   "editor.lineHeight": 22,
   "editor.fontLigatures": true,
 
-  "editor.cursorStyle": "line",
-  "editor.cursorBlinking": "solid",
+  "editor.cursorStyle": "block",
+ "editor.cursorWidth": 8,
+ "editor.cursorBlinking": "solid",
   "editor.renderLineHighlight": "none",
   "editor.matchBrackets": "never",
 
